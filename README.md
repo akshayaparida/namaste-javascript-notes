@@ -4,13 +4,13 @@
 
 ## ❓ what it is
 
-> This repo maintains my version of javascript notes which I learned from the famous [Namaste Javascript Youtube Series](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1&ab_channel=AkshaySaini) by Akshay Saini.
+> This repo maintains my version of javascript notes which I learned from the famous <a href="https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1&ab_channel=AkshaySaini" target="_blank" rel="noopener noreferrer">Namaste Javascript Youtube Series</a> by Akshay Saini.
 
 <br>
 
-## 🏠 [Namaste Javascript Notes Website](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
+## 🏠 <a href="https://alok722.github.io/namaste-javascript-notes/dist/lectures.html" target="_blank" rel="noopener noreferrer">Namaste Javascript Notes Website</a>
 
-## 🚀 [PDF Version of Complete Notes](./dist/namaste-javascript-notes.pdf)
+## 🚀 <a href="./dist/namaste-javascript-notes.pdf" target="_blank" rel="noopener noreferrer">PDF Version of Complete Notes</a>
 
 <br>
 
@@ -18,57 +18,57 @@
 
 ### 📌 <ins>Season 1<ins>
 
-#### [Episode 1 : Execution Context](./notes/season-1/lecture-01.md)
+#### <a href="./notes/season-1/lecture-01.md" target="_blank" rel="noopener noreferrer">Episode 1 : Execution Context</a>
 
-#### [Episode 2 : How JS is executed & Call Stack](./notes/season-1/lecture-02.md)
+#### <a href="./notes/season-1/lecture-02.md" target="_blank" rel="noopener noreferrer">Episode 2 : How JS is executed & Call Stack</a>
 
-#### [Episode 3 : Hoisting in JavaScript (variables & functions)](./notes/season-1/lecture-03.md)
+#### <a href="./notes/season-1/lecture-03.md" target="_blank" rel="noopener noreferrer">Episode 3 : Hoisting in JavaScript (variables & functions)</a>
 
-#### [Episode 4 : Functions and Variable Environments](./notes/season-1/lecture-04.md)
+#### <a href="./notes/season-1/lecture-04.md" target="_blank" rel="noopener noreferrer">Episode 4 : Functions and Variable Environments</a>
 
-#### [Episode 5 : Shortest JS Program, window & this keyword](./notes/season-1/lecture-05.md)
+#### <a href="./notes/season-1/lecture-05.md" target="_blank" rel="noopener noreferrer">Episode 5 : Shortest JS Program, window & this keyword</a>
 
-#### [Episode 6 : undefined vs not defined in JS](./notes/season-1/lecture-06.md)
+#### <a href="./notes/season-1/lecture-06.md" target="_blank" rel="noopener noreferrer">Episode 6 : undefined vs not defined in JS</a>
 
-#### [Episode 7 : The Scope Chain, Scope & Lexical Environment](./notes/season-1/lecture-07.md)
+#### <a href="./notes/season-1/lecture-07.md" target="_blank" rel="noopener noreferrer">Episode 7 : The Scope Chain, Scope & Lexical Environment</a>
 
-#### [Episode 8 : let & const in JS, Temporal Dead Zone](./notes/season-1/lecture-08.md)
+#### <a href="./notes/season-1/lecture-08.md" target="_blank" rel="noopener noreferrer">Episode 8 : let & const in JS, Temporal Dead Zone</a>
 
-#### [Episode 9 : Block Scope & Shadowing in JS](./notes/season-1/lecture-09.md)
+#### <a href="./notes/season-1/lecture-09.md" target="_blank" rel="noopener noreferrer">Episode 9 : Block Scope & Shadowing in JS</a>
 
-#### [Episode 10 : Closure in JS](./notes/season-1/lecture-10.md)
+#### <a href="./notes/season-1/lecture-10.md" target="_blank" rel="noopener noreferrer">Episode 10 : Closure in JS</a>
 
-#### [Episode 11 : setTimeout + Closures Interview Question](./notes/season-1/lecture-11.md)
+#### <a href="./notes/season-1/lecture-11.md" target="_blank" rel="noopener noreferrer">Episode 11 : setTimeout + Closures Interview Question</a>
 
-#### [Episode 12 : Famous Interview Questions ft. Closures](./notes/season-1/lecture-12.md)
+#### <a href="./notes/season-1/lecture-12.md" target="_blank" rel="noopener noreferrer">Episode 12 : Famous Interview Questions ft. Closures</a>
 
-#### [Episode 13 : First Class Functions ft. Anonymous Functions](./notes/season-1/lecture-13.md)
+#### <a href="./notes/season-1/lecture-13.md" target="_blank" rel="noopener noreferrer">Episode 13 : First Class Functions ft. Anonymous Functions</a>
 
-#### [Episode 14 : Callback Functions in JS ft. Event Listeners](./notes/season-1/lecture-14.md)
+#### <a href="./notes/season-1/lecture-14.md" target="_blank" rel="noopener noreferrer">Episode 14 : Callback Functions in JS ft. Event Listeners</a>
 
-#### [Episode 15 : Asynchronous JavaScript & EVENT LOOP from scratch](./notes/season-1/lecture-15.md)
+#### <a href="./notes/season-1/lecture-15.md" target="_blank" rel="noopener noreferrer">Episode 15 : Asynchronous JavaScript & EVENT LOOP from scratch</a>
 
-#### [Episode 16 : JS Engine Exposed, Google's V8 Architecture](./notes/season-1/lecture-16.md)
+#### <a href="./notes/season-1/lecture-16.md" target="_blank" rel="noopener noreferrer">Episode 16 : JS Engine Exposed, Google's V8 Architecture</a>
 
-#### [Episode 17 : Trust issues with setTimeout()](./notes/season-1/lecture-17.md)
+#### <a href="./notes/season-1/lecture-17.md" target="_blank" rel="noopener noreferrer">Episode 17 : Trust issues with setTimeout()</a>
 
-#### [Episode 18 : Higher-Order Functions ft. Functional Programming](./notes/season-1/lecture-18.md)
+#### <a href="./notes/season-1/lecture-18.md" target="_blank" rel="noopener noreferrer">Episode 18 : Higher-Order Functions ft. Functional Programming</a>
 
-#### [Episode 19 : map, filter & reduce](./notes/season-1/lecture-19.md)
+#### <a href="./notes/season-1/lecture-19.md" target="_blank" rel="noopener noreferrer">Episode 19 : map, filter & reduce</a>
 
 ### 📌 <ins>Season 2<ins>
 
-#### [Episode 20 : Callback Hell](./notes/season-2/lecture-01.md)
+#### <a href="./notes/season-2/lecture-01.md" target="_blank" rel="noopener noreferrer">Episode 20 : Callback Hell</a>
 
-#### [Episode 21 : Promises](./notes/season-2/lecture-02.md)
+#### <a href="./notes/season-2/lecture-02.md" target="_blank" rel="noopener noreferrer">Episode 21 : Promises</a>
 
-#### [Episode 22 : Creating a Promise, Chaining & Error Handling](./notes/season-2/lecture-03.md)
+#### <a href="./notes/season-2/lecture-03.md" target="_blank" rel="noopener noreferrer">Episode 22 : Creating a Promise, Chaining & Error Handling</a>
 
-#### [Episode 23 : async await](./notes/season-2/lecture-04.md)
+#### <a href="./notes/season-2/lecture-04.md" target="_blank" rel="noopener noreferrer">Episode 23 : async await</a>
 
-#### [Episode 24 : Promise APIs (all, allSettled, race, any) + Interview Questions 🔥](./notes/season-2/lecture-05.md)
+#### <a href="./notes/season-2/lecture-05.md" target="_blank" rel="noopener noreferrer">Episode 24 : Promise APIs (all, allSettled, race, any) + Interview Questions 🔥</a>
 
-#### [Episode 25 : `this` keyword in JavaScript](./notes/season-2/lecture-06.md)
+#### <a href="./notes/season-2/lecture-06.md" target="_blank" rel="noopener noreferrer">Episode 25 : `this` keyword in JavaScript</a>
 
 <br>
 
@@ -81,8 +81,8 @@ From the creator of Namaste Javascript himself, 🙌
 
 **alok raj (alokr417@gmail.com)**
 
-- website: https://alok722.github.io/
-- linkedin: [@alok722](https://linkedin.com/in/alok722)
+- website: <a href="https://alok722.github.io/" target="_blank" rel="noopener noreferrer">https://alok722.github.io/</a>
+- linkedin: <a href="https://linkedin.com/in/alok722" target="_blank" rel="noopener noreferrer">@alok722</a>
 
 <br>
 
